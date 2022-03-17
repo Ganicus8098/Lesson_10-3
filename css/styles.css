@@ -192,17 +192,17 @@
 }
 @font-face {
    font-family: 'Montserrat-Medium';
-   src: url('../fonts/Montserrat-Medium.woff2') url('../fonts/Montserrat-Medium.woff');
+   src: url('../fonts/Montserrat-Medium.woff2'), url('../fonts/Montserrat-Medium.woff');
    font-weight: normal;
    font-style: normal;
    font-display: swap;
 }
 @font-face {
    font-family: 'Montserrat-MediumItalic';
-src: url('../fonts/Montserrat-MediumItalic.woff2') url('../fonts/Montserrat-MediumItalic.woff');
-font-weight: normal;
-font-style: italic;
-font-display: swap;
+   src: url('../fonts/Montserrat-MediumItalic.woff2'), url('../fonts/Montserrat-MediumItalic.woff');
+   font-weight: normal;
+   font-style: italic;
+   font-display: swap;
 }
 body {
    padding: 10px;
